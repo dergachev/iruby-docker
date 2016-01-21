@@ -1,0 +1,4 @@
+c.NotebookApp.ip = '*'
+c.NotebookApp.password = u'sha1:dfb5f376bc43:59193bf3ae19de3c0360a69ebaa3fe07018c607a'
+c.NotebookApp.open_browser = False
+c.NotebookApp.port = 9999
